@@ -1,0 +1,16 @@
+# Student Performance Prediction
+
+This project predicts student math scores using machine learning.
+
+Dataset: StudentsPerformance.csv
+
+Models Used:
+- Linear Regression
+- Random Forest
+
+Evaluation Metrics:
+- RMSE
+- R² Score
+
+Key Insight:
+Reading and writing scores strongly influence math score prediction.
